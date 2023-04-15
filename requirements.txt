@@ -1,0 +1,14 @@
+beautifulsoup4
+bs4
+chardet
+click
+Flask
+Flask-Cors
+gunicorn
+idna
+itsdangerous
+Jinja2
+MarkupSafe
+urllib3
+Werkzeug
+pymongo
